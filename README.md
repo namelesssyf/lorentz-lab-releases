@@ -6,7 +6,7 @@
 
 ## 下载与运行
 
-请到 [Releases 页面](https://github.com/namelesssyf/lorentz-lab-releases/releases) 下载最新的 **Windows x64 玩家版 ZIP**。如果页面还没有发布版本，说明下载尚未开放。本仓库不提供制作器、地图工程或源码。
+请到 [Releases 页面](https://github.com/namelesssyf/lorentz-lab-releases/releases) 下载最新的 **Windows x64 玩家版 ZIP**。本仓库不提供制作器、地图工程或源码。
 
 1. 完整解压 ZIP，不要直接在压缩软件中运行。
 2. 打开解压后的文件夹，双击 `LorentzLab.exe`。
@@ -31,7 +31,7 @@
 2026-09-15 Windows x64 玩家 ZIP 的 SHA-256：
 
 ```text
-3e5806848d82d2eaec7db915b459500859cabb61749aacda56baed26f800880e
+c035478aea518db8d4e0e421b07916b5d0237cf76f75eb2ecdbfe6b18c8ae5b7
 ```
 
 发布版本同时提供 `.sha256` 校验文件。这个校验值只对应原始 ZIP；如果文件被重新压缩或修改，校验值就会变化。
