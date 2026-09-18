@@ -12,7 +12,7 @@
 
 请到 [Releases 页面](https://github.com/namelesssyf/lorentz-lab-releases/releases) 下载最新的 **Windows x64 玩家版 ZIP**。本仓库不提供制作器、地图工程或源码。
 
-当前 **2026-09-18 在线版**：[下载 Windows x64 玩家 ZIP](https://github.com/namelesssyf/lorentz-lab-releases/releases/download/2026-09-18-windows-x64-online-release/LorentzLab-Windows-x64-20260918-online-player.zip)（67.3 MiB）。新增网站账号登录、云成绩与每关排行榜；新成绩先保存在本地，再自动上传，网络异常时保留记录供补传。也可继续游客离线游玩。
+当前 **2026-09-18 静默轨道版**：[下载 Windows x64 玩家 ZIP](https://github.com/namelesssyf/lorentz-lab-releases/releases/download/2026-09-18-windows-x64-silent-orbit-v4/LorentzLab-Windows-x64-20260918-silent-orbit-player.zip)（65.3 MiB）。本版以全新空灵配乐替换旧背景音乐，声音更安静、柔和；网站账号登录、云成绩、每关排行榜与游客离线游玩保持不变。
 
 使用 [NUKE studio 网站账号](https://nukegamestudio.com/account/register/?app=lorentz-lab) 登录。账号与游客进度分开，游客成绩不会自动归入账号；密码不保存在本地，关闭游戏后需重新登录。窗口/全屏适配及原有存档目录继续保留。
 
@@ -44,11 +44,11 @@
 ## 文件校验
 
 
-2026-09-18 在线版 Windows x64 玩家 ZIP 的 SHA-256：
+2026-09-18 静默轨道版 Windows x64 玩家 ZIP 的 SHA-256：
 
 
 ```text
-dec69128a2a654cfe0485be4aa81741f507f3c7be96cdf5b4b8e44fa97572780
+d17a0b8ab0ce4368e5b2533e6c992b297862bdef1a380de32a06909107b549a5
 ```
 
 
