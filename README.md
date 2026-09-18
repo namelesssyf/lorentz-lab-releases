@@ -12,7 +12,9 @@
 
 请到 [Releases 页面](https://github.com/namelesssyf/lorentz-lab-releases/releases) 下载最新的 **Windows x64 玩家版 ZIP**。本仓库不提供制作器、地图工程或源码。
 
-当前 2026-09-16 版已支持窗口和全屏画面随宽高比等比铺满，操作界面随可见区域调整；已有玩家进度继续保存在原用户目录。
+当前 **2026-09-18 在线版**：[下载 Windows x64 玩家 ZIP](https://github.com/namelesssyf/lorentz-lab-releases/releases/download/2026-09-18-windows-x64-online-release/LorentzLab-Windows-x64-20260918-online-player.zip)（67.3 MiB）。新增网站账号登录、云成绩与每关排行榜；新成绩先保存在本地，再自动上传，网络异常时保留记录供补传。也可继续游客离线游玩。
+
+使用 [NUKE studio 网站账号](https://nukegamestudio.com/account/register/?app=lorentz-lab) 登录。账号与游客进度分开，游客成绩不会自动归入账号；密码不保存在本地，关闭游戏后需重新登录。窗口/全屏适配及原有存档目录继续保留。
 
 
 1. 完整解压 ZIP，不要直接在压缩软件中运行。
@@ -42,11 +44,11 @@
 ## 文件校验
 
 
-2026-09-16 窗口适配版 Windows x64 玩家 ZIP 的 SHA-256：
+2026-09-18 在线版 Windows x64 玩家 ZIP 的 SHA-256：
 
 
 ```text
-4112417e1137e3ece2226beab75d1fd32fa3ade75b29f7c3007d82dcdf17f9e3
+dec69128a2a654cfe0485be4aa81741f507f3c7be96cdf5b4b8e44fa97572780
 ```
 
 
